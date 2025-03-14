@@ -35,12 +35,12 @@ AutoSQLmap is a script designed to automate SQLmap scans for a list of URLs or a
 
     - **Single URL:**
       ```
-      python sqlmap_auto.py "http://example.com/vulnerable_page.php?id=1"
+      python autosqlmap.py "http://example.com/vulnerable_page.php?id=1"
       ```
 
     - **List of URLs (in a file called `urls.txt`):**
       ```
-      python sqlmap_auto.py urls.txt
+      python autosqlmap.py urls.txt
       ```
 
 ## Important Notes:
