@@ -10,7 +10,7 @@ AutoSQLmap is a script designed to automate SQLmap scans for a list of URLs or a
 1. **Clone the Repository:**
     ```sh
     git clone https://github.com/liixhunter/autosqlmap.git
-    cd sqlmap-auto-scanner
+    cd autosqlmap
     ```
 
 2. **Ensure SQLmap is Installed and Available in Your PATH:**
